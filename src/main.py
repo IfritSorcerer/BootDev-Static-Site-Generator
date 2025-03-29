@@ -1,7 +1,7 @@
 
 from textnode import TextNode
+from htmlnode import HTMLNode
 
 def main():
-    node = TextNode("Sample Text", "link", "https://www.boot.dev")
-    print(node)
+    
 main()
